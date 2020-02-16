@@ -2004,9 +2004,14 @@ var cnips = [
     12
   ], 
   [
-    1696595968, 
-    4294705152, 
-    14
+    1696661504, 
+    4294901760, 
+    17
+  ], 
+  [
+    1696727040, 
+    4294836224, 
+    15
   ], 
   [
     1696858112, 
@@ -2025,8 +2030,18 @@ var cnips = [
   ], 
   [
     1697120256, 
-    4294443008, 
-    13
+    4294836224, 
+    15
+  ], 
+  [
+    1697251328, 
+    4294836224, 
+    15
+  ], 
+  [
+    1697382400, 
+    4294705152, 
+    14
   ], 
   [
     1697644544, 
@@ -2906,7 +2921,7 @@ var cnips = [
   [
     1737031680, 
     4294901760, 
-    24
+    23
   ], 
   [
     1737097216, 
@@ -2940,6 +2955,21 @@ var cnips = [
   ], 
   [
     1737490432, 
+    4294901760, 
+    23
+  ], 
+  [
+    1737555968, 
+    4294901760, 
+    23
+  ], 
+  [
+    1737621504, 
+    4294901760, 
+    23
+  ], 
+  [
+    1737687040, 
     4294901760, 
     23
   ], 
@@ -3290,8 +3320,13 @@ var cnips = [
   ], 
   [
     1779171328, 
-    4294705152, 
-    14
+    4294836224, 
+    15
+  ], 
+  [
+    1779302400, 
+    4294836224, 
+    15
   ], 
   [
     1779433472, 
@@ -4590,8 +4625,18 @@ var cnips = [
   ], 
   [
     1966080000, 
-    4294705152, 
-    14
+    4294901760, 
+    17
+  ], 
+  [
+    1966145536, 
+    4294901760, 
+    16
+  ], 
+  [
+    1966211072, 
+    4294836224, 
+    15
   ], 
   [
     1966407680, 
@@ -4851,7 +4896,7 @@ var cnips = [
   [
     1992228864, 
     4294901760, 
-    16
+    21
   ], 
   [
     1992294400, 
@@ -6070,8 +6115,13 @@ var cnips = [
   ], 
   [
     2084831232, 
-    4294705152, 
-    14
+    4294836224, 
+    15
+  ], 
+  [
+    2084962304, 
+    4294836224, 
+    15
   ], 
   [
     2085093376, 
@@ -7285,8 +7335,18 @@ var cnips = [
   ], 
   [
     3031957504, 
-    4294705152, 
-    14
+    4294836224, 
+    15
+  ], 
+  [
+    3032088576, 
+    4294901760, 
+    16
+  ], 
+  [
+    3032154112, 
+    4294901760, 
+    16
   ], 
   [
     3032219648, 
@@ -10434,6 +10494,7 @@ var domainsUsingProxy = {
   "2008xianzhang.info": 1, 
   "2017.hk": 1, 
   "21andy.com": 1, 
+  "21join.com": 1, 
   "21pron.com": 1, 
   "21sextury.com": 1, 
   "228.net.tw": 1, 
@@ -10485,6 +10546,7 @@ var domainsUsingProxy = {
   "666kb.com": 1, 
   "6park.com": 1, 
   "6parker.com": 1, 
+  "6parknews.com": 1, 
   "7capture.com": 1, 
   "7cow.com": 1, 
   "8-d.com": 1, 
@@ -10749,6 +10811,7 @@ var domainsUsingProxy = {
   "avdb.in": 1, 
   "avdb.tv": 1, 
   "avfantasy.com": 1, 
+  "avg.com": 1, 
   "avgle.com": 1, 
   "avidemux.org": 1, 
   "avmo.pw": 1, 
@@ -11448,6 +11511,7 @@ var domainsUsingProxy = {
   "delcamp.net": 1, 
   "delicious.com": 1, 
   "democrats.org": 1, 
+  "demosisto.hk": 1, 
   "depositphotos.com": 1, 
   "derekhsu.homeip.net": 1, 
   "desc.se": 1, 
@@ -11508,6 +11572,7 @@ var domainsUsingProxy = {
   "dnssec.net": 1, 
   "dnvod.tv": 1, 
   "doctorvoice.org": 1, 
+  "documentingreality.com": 1, 
   "dogfartnetwork.com": 1, 
   "dojin.com": 1, 
   "dok-forum.net": 1, 
@@ -11798,6 +11863,7 @@ var domainsUsingProxy = {
   "fangongheike.com": 1, 
   "fanhaodang.com": 1, 
   "fanqiang.tk": 1, 
+  "fanqiangdang.com": 1, 
   "fanqianghou.com": 1, 
   "fanqiangyakexi.net": 1, 
   "fanqiangzhe.com": 1, 
@@ -11834,6 +11900,7 @@ var domainsUsingProxy = {
   "fdc89.jp": 1, 
   "feedburner.com": 1, 
   "feedly.com": 1, 
+  "feedx.net": 1, 
   "feelssh.com": 1, 
   "feer.com": 1, 
   "feifeiss.com": 1, 
@@ -11943,6 +12010,7 @@ var domainsUsingProxy = {
   "freefq.com": 1, 
   "freefuckvids.com": 1, 
   "freegao.com": 1, 
+  "freehongkong.org": 1, 
   "freeilhamtohti.org": 1, 
   "freekwonpyong.org": 1, 
   "freelotto.com": 1, 
@@ -12300,6 +12368,7 @@ var domainsUsingProxy = {
   "guancha.org": 1, 
   "guaneryu.com": 1, 
   "guangming.com.my": 1, 
+  "guangnianvpn.com": 1, 
   "guardster.com": 1, 
   "guishan.org": 1, 
   "gumroad.com": 1, 
@@ -12336,6 +12405,7 @@ var domainsUsingProxy = {
   "hahlo.com": 1, 
   "hakkatv.org.tw": 1, 
   "handcraftedsoftware.org": 1, 
+  "hanime.tv": 1, 
   "hanminzu.org": 1, 
   "hanunyi.com": 1, 
   "hao123.com": 1, 
@@ -12990,6 +13060,7 @@ var domainsUsingProxy = {
   "lighten.org.tw": 1, 
   "lighti.me": 1, 
   "lightnovel.cn": 1, 
+  "lightyearvpn.com": 1, 
   "lihkg.com": 1, 
   "like.com": 1, 
   "limiao.net": 1, 
@@ -13924,6 +13995,7 @@ var domainsUsingProxy = {
   "qvodzy.org": 1, 
   "qx.net": 1, 
   "qxbbs.org": 1, 
+  "qz.com": 1, 
   "r18.com": 1, 
   "ra.gg": 1, 
   "radicalparty.org": 1, 
@@ -13950,8 +14022,10 @@ var domainsUsingProxy = {
   "rapidgator.net": 1, 
   "rapidmoviez.com": 1, 
   "rapidvpn.com": 1, 
+  "rarbgprx.org": 1, 
   "raremovie.cc": 1, 
   "raremovie.net": 1, 
+  "raw.githubusercontent.com": 1, 
   "rawgit.com": 1, 
   "rawgithub.com": 1, 
   "raxcdn.com": 1, 
@@ -14930,6 +15004,7 @@ var domainsUsingProxy = {
   "txxx.com": 1, 
   "tycool.com": 1, 
   "typepad.com": 1, 
+  "u15.info": 1, 
   "u9un.com": 1, 
   "ub0.cc": 1, 
   "ubddns.org": 1, 
@@ -15177,6 +15252,7 @@ var domainsUsingProxy = {
   "warehouse333.com": 1, 
   "waselpro.com": 1, 
   "washeng.net": 1, 
+  "washingtonpost.com": 1, 
   "watch8x.com": 1, 
   "watchinese.com": 1, 
   "watchmygf.net": 1, 
@@ -15453,6 +15529,7 @@ var domainsUsingProxy = {
   "yibada.com": 1, 
   "yibaochina.com": 1, 
   "yidio.com": 1, 
+  "yigeni.com": 1, 
   "yilubbs.com": 1, 
   "yimg.com": 1, 
   "yingsuoss.com": 1, 
