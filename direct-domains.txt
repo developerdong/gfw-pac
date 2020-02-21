@@ -366,6 +366,7 @@ zhihu.com
 zhimg.com
 zhubajie.com
 zongheng.com
-github.com
 githubusercontent.com
-github.io
+sinaimg.cn
+icloud.com
+apple.cn

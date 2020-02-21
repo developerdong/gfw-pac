@@ -2974,6 +2974,11 @@ var cnips = [
     23
   ], 
   [
+    1737752576, 
+    4294901760, 
+    23
+  ], 
+  [
     1740636160, 
     4294901760, 
     22
@@ -15751,12 +15756,12 @@ function FindProxyForURL(url, host) {
     }
 
     if (!ipRegExp.test(host)) {
-        if (testDomain(host, directDomains, true)) {
-            return direct
-        }
-
         if (testDomain(host, domainsUsingProxy)) {
             return proxy;
+        }
+        
+        if (testDomain(host, directDomains, true)) {
+            return direct
         }
         strIp = dnsResolve(host);
     } else {
