@@ -18,7 +18,8 @@ jobs:
       run: |
         git config --local user.email developerdong@gmail.com
         git config --local user.name developerdong
-        git commit -m "Update PAC file" -a
+        git add -A
+        git diff-index --quiet HEAD || git commit -m "Update PAC file"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
