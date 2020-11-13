@@ -13868,6 +13868,7 @@ var domainsUsingProxy = {
   "paradisehill.cc": 1, 
   "paradisepoker.com": 1, 
   "parkansky.com": 1, 
+  "parler.com": 1, 
   "parsevideo.com": 1, 
   "partycasino.com": 1, 
   "partypoker.com": 1, 
